@@ -11,11 +11,11 @@
 
 
 
-= ASCI4209 ASCIDOC TEMPLATE
-Author
-Department of Computer Science
+= TDT4252 Enterprise Architecture
+Author <mail@mail.com>
+Norwegian University Of Science and Technology
 :title-page:
-:title-logo-image: image:figures/NTNU_logo.png[NTNU,400,400, align="center"]
+:title-logo-image: image:figures/NTNU_logo.png[NTNU,400,400]
 
 
 toc::[]

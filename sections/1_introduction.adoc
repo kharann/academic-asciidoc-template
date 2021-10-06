@@ -82,3 +82,8 @@ The format of this section will generally follow the following format:
 
 This section provides the reader with an overview of what is coming in the next chapters.
 You want to say more than what is explicit in the chapter name, if possible, but still keep the description short and to the point.
+
+
+==== Explain More
+
+The structure is kinda nice tho

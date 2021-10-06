@@ -15,12 +15,40 @@ base:
 
 heading:
   h1-font-size: $base-font-size * 2.5
-  h1-line-height: $base-font-size * 3.25
   h2-font-size: $base-font-size * 1.7
   h3-font-size: $base-font-size * 1.2
-  h4-font-size: $base-font-size * 1.2
+  h4-font-size: $base-font-size * 1.0
+  
 
 title-page:
   align: center
+  font-family: $base-font-family
   title:
     font-color: #333333
+    top: 30%
+  authors:
+    content: '{author} <{email}>'
+  logo:
+    top: 80%
+    align: center
+  subtitle:
+    top: 50%
+  revision:
+    delimiter: 'XD'
+
+toc: 
+  h2-font-style: bold
+
+caption:
+  align: center
+  margin-outside: 4
+
+footer:
+  columns: =100%
+  recto:
+    center:
+      content: '{page-number}'
+  verso:
+    center:
+      content: '{page-number}'
+
