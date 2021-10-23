@@ -12,7 +12,7 @@
 
 
 = ASCI4209 ASCIDOC TEMPLATE
-Anh-Kha Vo
+Author
 Department of Computer Science
 :title-page:
 :title-logo-image: image:figures/NTNU_logo.png[NTNU,400,400, align="center"]
