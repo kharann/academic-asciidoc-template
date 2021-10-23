@@ -40,7 +40,7 @@ You can cite papers in the following manners:
 
 [[example_diagram]]
 .Boxes and arrows are nice.
-image::../figures/figure1.png[]
+image::figures/figure1.png[align="center"]
 
 Remember that when you borrow figures you should always credit the original author.
 Also don't just put the figure in and leave it to the author to try to understand what the figure is.

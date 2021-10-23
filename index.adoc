@@ -1,4 +1,3 @@
-// (C) Aslak Hollund & August Sollesnes Solvang
 :bibtex-file: library.bib
 :bibtex-order: alphabetical
 :bibtex-style: ieee
@@ -9,22 +8,15 @@
 :stylesheet: style/empty.css
 :docinfo: shared,private-footer
 
-= The Best Title in the World
-Name of the authors
-
-[[byline]]
-Master's Thesis in Informatics, Spring 2021
-
-[[department]]
-Artificial Intelligence Group +
-Department of Computer and Information Science +
-Faculty of Information Technology and Electrical Engineering
-
-[[ntnu_logo]]
-image:figures/ntnu.png[ntnu, 100]
 
 
-include::sections/0_preface.adoc[]
+
+= ASCI4209 ASCIDOC TEMPLATE
+Anh-Kha Vo
+Department of Computer Science
+:title-page:
+:title-logo-image: image:figures/NTNU_logo.png[NTNU,400,400, align="center"]
+
 
 toc::[]
 
