@@ -1,4 +1,25 @@
 extends: default
+page:
+  margin: [1.1in, 1.25in, 1.1in, 1.25in]
+font:
+  catalog:
+    merge: false
+    Latin Modern:
+      normal: LM-regular.ttf
+      bold: LM-bold.ttf
+      italic: LM-italic.ttf
+      bold_italic: LM-bold-italic.ttf
+base:
+  font-family: Latin Modern
+  font-size: 12
+
+heading:
+  h1-font-size: $base-font-size * 2.5
+  h1-line-height: $base-font-size * 3.25
+  h2-font-size: $base-font-size * 1.7
+  h3-font-size: $base-font-size * 1.2
+  h4-font-size: $base-font-size * 1.2
+
 title-page:
   align: center
   title:
