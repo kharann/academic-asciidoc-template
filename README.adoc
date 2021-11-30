@@ -7,6 +7,15 @@ If you would like to see a completed thesis using asciidoc you can take a look a
 
 
 == Getting started:
+
+=== Docker
+
+The recomended way for compiling pdf files is through a Docker image.
+Make sure you have Docker instaled by running `docker --version`. 
+The command `make dpdf` will use a docker image with all the required dependencies to spit ot a PDF file.
+
+=== RVM
+
 First you will need ruby and it's package manager gem.
 For mac we recommend installing Ruby Version Manager (RVM).
 link:https://nrogap.medium.com/install-rvm-in-macos-step-by-step-d3b3c236953b[This guide] will help to install ruby and RVM.
